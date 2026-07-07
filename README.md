@@ -81,7 +81,7 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando desenvo
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h1 align="center">📊 Estatísticas</h1>
 
 <div align="center">
   <img
