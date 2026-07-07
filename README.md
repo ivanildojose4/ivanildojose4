@@ -14,6 +14,8 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando desenvo
   </a>
 </div>
 
+<br>
+
 ---
 
 <div align="center">
@@ -78,9 +80,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando desenvo
 </p>
 
 <br/>
-<br/>
-<br/>
-
 <h1 align="center">📊 Estatísticas</h1>
 
 <div align="center">
