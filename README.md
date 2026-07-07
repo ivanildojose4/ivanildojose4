@@ -83,6 +83,14 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, buscando desenvo
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ivanildojose4&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=ivanildojose4&include_all_commits=true&theme=nord)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ivanildojose4&langs_count=4&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=ivanildojose4&langs_count=4&theme=nord)
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=ivanildojose4&include_all_commits=true&theme=nord"
+  />
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ivanildojose4&langs_count=4&theme=nord"
+  />
+</div>
+</div>
